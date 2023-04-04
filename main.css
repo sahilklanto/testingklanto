@@ -2623,7 +2623,7 @@ input:focus {
     height: 24px;
     left: 16px;
     position: absolute;
-    top: 3351px;
+    top: 3162px;
     width: 330px;
 }
 
@@ -2644,7 +2644,7 @@ input:focus {
     height: 24px;
     left: 16px;
     position: absolute;
-    top: 3409px;
+    top: 3314px;
     width: 330px;
 }
 
@@ -2686,7 +2686,7 @@ input:focus {
     height: 24px;
     left: 16px;
     position: absolute;
-    top: 3525px;
+    top: 3601px;
     width: 330px;
 }
 
@@ -9521,4 +9521,8 @@ input:focus {
 
 .faq-answer {
     font-size: larger;
+}
+
+.android-faq {
+    margin-top: 30px;
 }
