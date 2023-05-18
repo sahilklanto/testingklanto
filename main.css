@@ -4499,6 +4499,31 @@ input:focus {
     top: 149px;
     width: auto;
 }
+.desktop-48 .legal-KuMAYK {
+    background-color: transparent;
+    height: auto;
+    left: 631px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 178px;
+    width: auto;
+}
+
+.desktop-48 .privacy-KuMAYK {
+    background-color: transparent;
+    height: auto;
+    left: 631px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 205px;
+    width: auto;
+}
 
 .desktop-48 .blog-KuMAYK {
     background-color: transparent;
@@ -4656,7 +4681,7 @@ input:focus {
     height: 24px;
     left: 579px;
     position: absolute;
-    top: 4403px;
+    top: 4413px;
     width: 606px;
 }
 
@@ -4677,7 +4702,7 @@ input:focus {
     height: 24px;
     left: 579px;
     position: absolute;
-    top: 4539px;
+    top: 4560px;
     width: 606px;
 }
 
