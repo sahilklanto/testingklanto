@@ -3974,11 +3974,11 @@ input:focus {
     color: var(--text--components);
     cursor: pointer;
     font-family: var(--font-family-inter);
-    font-size: var(--font-size-m);
+    font-size: large;
     font-style: normal;
     font-weight: 600;
     height: auto;
-    left: 1033px;
+    left: 1290px;
     letter-spacing: 0.00px;
     line-height: normal;
     mix-blend-mode: normal;
@@ -3998,7 +3998,7 @@ input:focus {
     display: flex;
     gap: 10px;
     height: auto;
-    left: 1099px;
+    left: 1383px;
     padding: 15px 40px;
     position: absolute;
     top: -2px;
@@ -4491,7 +4491,7 @@ input:focus {
     position: absolute;
     text-align: left;
     top: 319px;
-    width: auto;
+    width: 800px;
 }
 
 .desktop-48 .faqs-KuMAYK {
@@ -4706,9 +4706,20 @@ input:focus {
     height: 24px;
     left: 579px;
     position: absolute;
-    top: 4413px;
+    top: 4300px;
     width: 606px;
 }
+
+.group-6956-207TlU-hr {
+    background-color: transparent;
+    left: 579px;
+    position: absolute;
+    top: 4275px;
+    width: 880px;
+}
+
+
+
 
 .desktop-48 .who-is-klanto-for-NWMtdK {
     line-height: normal;
@@ -4727,8 +4738,16 @@ input:focus {
     height: 24px;
     left: 579px;
     position: absolute;
-    top: 4560px;
+    top: 4500px;
     width: 606px;
+}
+
+.group-6955-207TlU-hr {
+    background-color: transparent;
+    left: 579px;
+    position: absolute;
+    top: 4475px;
+    width: 880px;
 }
 
 .desktop-48 .who-is-klanto-for-7r46FC {
@@ -4748,8 +4767,16 @@ input:focus {
     height: 24px;
     left: 579px;
     position: absolute;
-    top: 4662px;
+    top: 4707px;
     width: 606px;
+}
+
+.group-6958-207TlU-hr {
+    background-color: transparent;
+    left: 579px;
+    position: absolute;
+    top: 4676px;
+    width: 880px;
 }
 
 .desktop-48 .who-is-klanto-for-et0TX7 {
@@ -4832,7 +4859,7 @@ input:focus {
     height: 113px;
     left: 579px;
     position: absolute;
-    top: 4266px;
+    top: 4198px;
     width: 606px;
 }
 
@@ -4879,7 +4906,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: center;
-    top: 4153px;
+    top: 4106px;
     white-space: nowrap;
     width: auto;
 }
@@ -6297,7 +6324,7 @@ input:focus {
 .desktop-48 .join-for-free-LBwe0S {
     color: var(--jaguar);
     font-family: var(--font-family-inter);
-    font-size: 52px;
+    font-size: 42px;
     font-style: normal;
     font-weight: 600;
     left: 96px;
@@ -9583,11 +9610,24 @@ input:focus {
     border-color: var(--heading--white);
     border-radius: 8px;
     height: 117px;
-    left: 390px;
+    left: 657px;
     mix-blend-mode: normal;
     position: absolute;
     top: 816px;
-    width: 1140px;
+    width: 1175px;
+}
+
+.desktop-48 .rectangle-777-207TlU-text {
+    background-color: transparent;
+    height: 117px;
+    left: 237px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 835px;
+    width: 337px;
+    font-family: var(--font-family-inter);
+    color: white;
+    font-size: xx-large;
 }
 
 
@@ -9613,6 +9653,32 @@ input:focus {
     width: 140px;
   }
 
+  .desktop-48 .ezgif-5-85F2Id {
+    background-color: transparent;
+    height: 50px;
+    left: 910px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 19px;
+    width: 140px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+  .desktop-48 .ezgif-6-85F2Id {
+    background-color: transparent;
+    height: 42px;
+    left: 640px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 24px;
+    width: 190px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
 
 
   .desktop-48 .r-chilli-logo-1-85F2Id {
@@ -9634,4 +9700,20 @@ input:focus {
     position: absolute;
     top: 833px;
     width: 514px;
+  }
+
+  .faq-desktop-heading {
+    font-size: xx-large;
+    color: white;
+    font-style: normal;
+    font-weight: 800;
+    font-family: var(--font-family-inter);
+  }
+
+  .faq-desktop-text {
+    color: white;
+    font-family: var(--font-family-inter);
+    font-size: x-large;
+    font-style: normal;
+    font-weight: 500;
   }
