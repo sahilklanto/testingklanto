@@ -1944,7 +1944,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: center;
-    top: 2151px;
+    top: 2130px;
     width: 328px;
 }
 
@@ -2644,7 +2644,15 @@ input:focus {
     height: 24px;
     left: 16px;
     position: absolute;
-    top: 3314px;
+    top: 3257px;
+    width: 330px;
+}
+
+.android-large-3 .group-6955-6xtG6n-hr {
+    background-color: transparent;
+    left: 16px;
+    position: absolute;
+    top: 3233px;
     width: 330px;
 }
 
@@ -2669,6 +2677,14 @@ input:focus {
     width: 330px;
 }
 
+.android-large-3 .group-6958-6xtG6n-hr {
+    background-color: transparent;
+    left: 16px;
+    position: absolute;
+    top: 3448px;
+    width: 330px;
+}
+
 .android-large-3 .who-is-klanto-for-Fv69f3 {
     line-height: normal;
     top: 1px;
@@ -2686,7 +2702,15 @@ input:focus {
     height: 24px;
     left: 16px;
     position: absolute;
-    top: 3601px;
+    top: 3560px;
+    width: 330px;
+}
+
+.android-large-3 .group-6959-6xtG6n-hr {
+    background-color: transparent;
+    left: 16px;
+    position: absolute;
+    top: 3541px;
     width: 330px;
 }
 
@@ -2780,10 +2804,10 @@ input:focus {
 .android-large-3 .join-for-free-6xtG6n {
     color: var(--jaguar);
     font-family: var(--font-family-inter);
-    font-size: var(--font-size-xxl);
+    font-size: var(--font-size-l);
     font-style: normal;
     font-weight: 600;
-    left: 110px;
+    left: 36px;
     top: 3792px;
 }
 
