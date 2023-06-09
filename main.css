@@ -635,7 +635,7 @@ input:focus {
     font-style: normal;
     font-weight: 400;
     height: auto;
-    left: 97px;
+    left: 70px;
     letter-spacing: 0.00px;
     line-height: 24px;
     mix-blend-mode: normal;
@@ -656,7 +656,7 @@ input:focus {
 }
 
 .android-large-3 .join-for-free-sqwA4O {
-    left: 25px;
+    left: 9px;
     top: 12px;
 }
 
@@ -702,7 +702,7 @@ input:focus {
     background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
     background-color: transparent;
     border-radius: 8px;
-    height: 140px;
+    height: 87px;
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
@@ -716,11 +716,11 @@ input:focus {
     background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
     background-color: transparent;
     border-radius: 8px;
-    height: 89px;
+    height: 79px;
     left: 1px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 156px;
+    top: 125px;
     width: 327px;
 }
 
@@ -734,7 +734,7 @@ input:focus {
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 261px;
+    top: 239px;
     width: 328px;
 }
 
@@ -785,14 +785,14 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 3px;
+    top: -20px;
     width: 255px;
 }
 
 .android-large-3 .frame-u7roH1 {
     height: 32px;
     left: 0px;
-    top: 0px;
+    top: -22px;
     width: 32px;
 }
 
@@ -814,7 +814,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 3px;
+    top: -17px;
     white-space: nowrap;
     width: auto;
 }
@@ -822,7 +822,7 @@ input:focus {
 .android-large-3 .frame-6ERHD1 {
     height: 32px;
     left: 0px;
-    top: 0px;
+    top: -19px;
     width: 32px;
 }
 
@@ -2502,11 +2502,11 @@ input:focus {
 
     background-color: transparent;
     height: 24px;
-    left: 320px;
+    left: 264px;
     mix-blend-mode: normal;
     position: absolute;
     top: 19px;
-    width: auto;
+    width: 105px;
     background-color: transparent;
     color: var(--text--components);
     font-family: var(--font-family-inter);
@@ -2833,7 +2833,7 @@ input:focus {
 }
 
 .android-large-3 .join-for-free-rzxnQE {
-    left: 25px;
+    left: 15px;
     top: 12px;
 }
 
@@ -3114,7 +3114,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 4749px;
+    top: 4630px;
     width: auto;
 }
 
@@ -3127,7 +3127,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 4796px;
+    top: 4678px;
     width: auto;
 }
 
@@ -3140,7 +3140,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 4836px;
+    top: 4709px;
     width: 258px;
 }
 
@@ -3150,7 +3150,7 @@ input:focus {
     left: 16px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 4795px;
+    top: 4678px;
     width: 24px;
 }
 
@@ -3160,7 +3160,7 @@ input:focus {
     left: 16px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 4835px;
+    top: 4717px;
     width: 24px;
 }
 
@@ -3173,7 +3173,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 4898px;
+    top: 4787px;
     width: auto;
 }
 
@@ -9299,7 +9299,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 10455px;
+    top: 10158px;
     width: auto;
 }
 
@@ -9312,7 +9312,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 10583px;
+    top: 10261px;
     width: auto;
 }
 
@@ -9325,7 +9325,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 10693px;
+    top: 10349px;
     width: 705px;
 }
 
@@ -9335,7 +9335,7 @@ input:focus {
     left: 44px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 10579px;
+    top: 10261px;
     width: 66px;
 }
 
@@ -9345,7 +9345,7 @@ input:focus {
     left: 44px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 10688px;
+    top: 10369px;
     width: 66px;
 }
 
@@ -9358,7 +9358,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 10862px;
+    top: 10636px;
     width: auto;
 }
 
