@@ -6750,7 +6750,7 @@ input:focus {
 .ipad-pro-12-9-1 .menu-ohxhu3 {
     background-color: transparent;
     height: 40px;
-    left: 839px;
+    left: 830px;
     mix-blend-mode: normal;
     position: absolute;
     top: 40px;
@@ -6847,7 +6847,7 @@ input:focus {
 }
 
 .ipad-pro-12-9-1 .join-for-free-ZVQgow {
-    left: 25px;
+    left: 11px;
     line-height: 24px;
     top: 12px;
 }
@@ -7958,7 +7958,7 @@ input:focus {
     left: 3px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 449px;
+    top: 418px;
     width: 941px;
 }
 
@@ -8001,7 +8001,7 @@ input:focus {
 .ipad-pro-12-9-1 .frame-NiBu1p {
     height: 92px;
     left: 0px;
-    top: 0px;
+    top: 70px;
     width: 92px;
 }
 
@@ -8023,14 +8023,14 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 9px;
+    top: 16px;
     width: 734px;
 }
 
 .ipad-pro-12-9-1 .frame-6PDQDP {
     height: 92px;
     left: 0px;
-    top: 0px;
+    top: 5px;
     width: 92px;
 }
 
@@ -8985,7 +8985,7 @@ input:focus {
     font-size: var(--font-size-xxxl);
     font-style: normal;
     font-weight: 600;
-    left: 72px;
+    left: 24px;
     line-height: 69.1px;
     top: 35px;
 }
@@ -9601,11 +9601,11 @@ input:focus {
 .ipad-pro-12-9-1 .menu-ohxhu3-join-now {
     background-color: transparent;
     height: 40px;
-    left: 914px;
+    left: 889px;
     mix-blend-mode: normal;
     position: absolute;
     top: 40px;
-    width: auto;
+    width: 300px;
     background-color: transparent;
     color: var(--text--components);
     font-family: var(--font-family-inter);
@@ -9664,6 +9664,32 @@ input:focus {
     position: absolute;
     top: 816px;
     width: 1175px;
+}
+
+.ipad-pro-12-9-1 .rectangle-777-207TlU-tablet {
+    background-color: transparent;
+    border: 2px solid;
+    border-color: var(--heading--white);
+    border-radius: 8px;
+    height: 117px;
+    left: 20px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 1450px;
+    width: 984px;
+}
+
+.ipad-pro-12-9-1 .rectangle-777-207TlU-text {
+    background-color: transparent;
+    height: 117px;
+    left: 237px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 1397px;
+    width: 600px;
+    font-family: var(--font-family-inter);
+    color: white;
+    font-size: xx-large;
 }
 
 .desktop-48 .rectangle-777-207TlU-text {
@@ -9750,6 +9776,75 @@ input:focus {
     top: 833px;
     width: 514px;
   }
+
+  .ipad-pro-12-9-1 .group-7036-207TlU {
+    background-color: transparent;
+    height: 83px;
+    left: 703px;
+    position: absolute;
+    top: 833px;
+    width: 514px;
+  }
+
+  .ipad-pro-12-9-1 .r-chilli-logo-1-85F2Id {
+    background-color: transparent;
+    height: 74px;
+    left: -674px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 636px;
+    width: 130px;
+  }
+
+.ipad-pro-12-9-1 .ezgif-4-85F2Id {
+    background-color: transparent;
+    height: 83px;
+    left: -49px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 631px;
+    width: 100px;
+  }
+
+  .ipad-pro-12-9-1 .ezgif-3-85F2Id {
+    background-color: transparent;
+    height: 42px;
+    left: -500px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 651px;
+    width: 154px;
+  }
+
+  .ipad-pro-12-9-1 .ezgif-5-85F2Id {
+    background-color: transparent;
+    height: 50px;
+    left: 124px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 645px;
+    width: 140px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+  .ipad-pro-12-9-1 .ezgif-6-85F2Id {
+    background-color: transparent;
+    height: 42px;
+    left: -294px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 650px;
+    width: 190px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
 
   .faq-desktop-heading {
     font-size: xx-large;
