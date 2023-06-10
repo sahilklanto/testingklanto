@@ -4093,9 +4093,9 @@ input:focus {
 .desktop-48 .group-7030-207TlU {
     background-color: transparent;
     height: 350px;
-    left: 909px;
+    left: 608px;
     position: absolute;
-    top: 3564px;
+    top: 3591px;
     width: 628px;
 }
 
@@ -4440,6 +4440,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     top: 194px;
+    cursor: pointer;
     width: 30px;
 }
 
@@ -4461,6 +4462,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     top: 201px;
+    cursor: pointer;
     width: 16px;
 }
 
@@ -4473,9 +4475,11 @@ input:focus {
     position: absolute;
     top: 194px;
     width: 30px;
+    cursor: pointer;
 }
 
 .desktop-48 .icon-linkedin-KuMAYK {
+    cursor: pointer;
     background-color: transparent;
     height: 16px;
     left: 133px;
@@ -5133,7 +5137,7 @@ input:focus {
 .desktop-48 .group-672-lxwBSV {
     background-color: transparent;
     height: 55px;
-    left: 11px;
+    left: 80px;
     position: absolute;
     top: 12px;
     width: 518px;
@@ -5174,7 +5178,7 @@ input:focus {
 }
 
 .desktop-48 .join-for-free-lxwBSV {
-    left: 381px;
+    left: 448px;
     letter-spacing: 0.00px;
     line-height: 30px;
     top: 25px;
@@ -9659,11 +9663,11 @@ input:focus {
     border-color: var(--heading--white);
     border-radius: 8px;
     height: 117px;
-    left: 657px;
+    left: 967px;
     mix-blend-mode: normal;
     position: absolute;
     top: 816px;
-    width: 1175px;
+    width: 850px;
 }
 
 .ipad-pro-12-9-1 .rectangle-777-207TlU-tablet {
@@ -9695,11 +9699,11 @@ input:focus {
 .desktop-48 .rectangle-777-207TlU-text {
     background-color: transparent;
     height: 117px;
-    left: 237px;
+    left: 245px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 835px;
-    width: 337px;
+    top: 853px;
+    width: 600px;
     font-family: var(--font-family-inter);
     color: white;
     font-size: xx-large;
@@ -9709,7 +9713,7 @@ input:focus {
 .desktop-48 .ezgif-4-85F2Id {
     background-color: transparent;
     height: 83px;
-    left: 414px;
+    left: 735px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
@@ -9719,24 +9723,24 @@ input:focus {
 
   .desktop-48 .ezgif-3-85F2Id {
     background-color: transparent;
-    height: 34px;
-    left: 202px;
+    height: 48px;
+    left: 499px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 24px;
-    width: 140px;
+    top: 18px;
+    width: 173px;
   }
 
   .desktop-48 .ezgif-5-85F2Id {
     background-color: transparent;
-    height: 50px;
+    height: 67px;
     left: 910px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 19px;
-    width: 140px;
+    top: 8px;
+    width: 147px;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
   }
@@ -9758,13 +9762,13 @@ input:focus {
 
   .desktop-48 .r-chilli-logo-1-85F2Id {
     background-color: transparent;
-    height: 74px;
-    left: 0px;
+    height: 88px;
+    left: 306px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 4px;
-    width: 130px;
+    top: -1px;
+    width: 138px;
   }
 
 
