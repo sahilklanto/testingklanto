@@ -2478,7 +2478,7 @@ input:focus {
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 2603px;
+    top: 2530px;
     width: 359px;
 }
 
@@ -2496,7 +2496,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: center;
-    top: 2626px;
+    top: 2544px;
     width: 328px;
 }
 
@@ -2556,7 +2556,7 @@ input:focus {
     height: 219px;
     left: 0px;
     position: absolute;
-    top: 2780px;
+    top: 2733px;
     width: 360px;
 }
 
@@ -2574,7 +2574,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: center;
-    top: 3060px;
+    top: 3074px;
     width: 328px;
 }
 
@@ -2994,7 +2994,7 @@ input:focus {
     left: 16px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 4433px;
+    top: 4359px;
     width: 30px;
 }
 
@@ -3015,7 +3015,7 @@ input:focus {
     left: 23px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 4440px;
+    top: 4365px;
     width: 16px;
 }
 
@@ -3026,7 +3026,7 @@ input:focus {
     left: 62px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 4433px;
+    top: 4359px;
     width: 30px;
 }
 
@@ -3036,7 +3036,7 @@ input:focus {
     left: 69px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 4440px;
+    top: 4365px;
     width: 16px;
 }
 
@@ -3059,7 +3059,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 4486px;
+    top: 4396px;
     width: auto;
 }
 
@@ -3072,7 +3072,46 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 4531px;
+    top: 4432px;
+    width: auto;
+}
+
+.android-large-3 .home-6xtG6n-faq {
+    background-color: transparent;
+    height: auto;
+    left: 16px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 4475px;
+    width: auto;
+}
+
+.android-large-3 .home-6xtG6n-legal {
+    background-color: transparent;
+    height: auto;
+    left: 16px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 4495px;
+    width: auto;
+}
+
+.android-large-3 .home-6xtG6n-privacy {
+    background-color: transparent;
+    height: auto;
+    left: 16px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 4520px;
     width: auto;
 }
 
@@ -3085,7 +3124,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 4566px;
+    top: 4454px;
     width: auto;
 }
 
@@ -9218,7 +9257,7 @@ input:focus {
     left: 44px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 9589px;
+    top: 9395px;
     width: 82px;
 }
 
@@ -9239,7 +9278,7 @@ input:focus {
     left: 63px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 9609px;
+    top: 9412px;
     width: 44px;
 }
 
@@ -9250,7 +9289,7 @@ input:focus {
     left: 169px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 9589px;
+    top: 9395px;
     width: 82px;
 }
 
@@ -9260,7 +9299,7 @@ input:focus {
     left: 189px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 9609px;
+    top: 9412px;
     width: 44px;
 }
 
@@ -9288,7 +9327,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 9736px;
+    top: 9500px;
     width: auto;
 }
 
@@ -9301,7 +9340,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 9859px;
+    top: 9580px;
     width: auto;
 }
 
@@ -9314,7 +9353,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 9955px;
+    top: 9639px;
     width: auto;
 }
 
@@ -9366,9 +9405,37 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     text-align: left;
-    top: 10050px;
+    top: 9698px;
     width: auto;
 }
+
+.ipad-pro-12-9-1 .legal-ohxhu3 {
+    background-color: transparent;
+    height: auto;
+    left: 44px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 9813px;
+    width: auto;
+}
+
+.ipad-pro-12-9-1 .privacy-ohxhu3 {
+    background-color: transparent;
+    height: auto;
+    left: 44px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 9753px;
+    width: auto;
+}
+
+
 
 .ipad-pro-12-9-1 .contact-details-ohxhu3 {
     background-color: transparent;
@@ -10069,11 +10136,11 @@ input:focus {
     background-color: var(--heading--white);
     border-radius: 8px;
     box-shadow: 0px 4px 32px #1878e514;
-    height: 350px;
+    height: 315px;
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 0px;
+    top: 4px;
     width: 620px;
 }
 
