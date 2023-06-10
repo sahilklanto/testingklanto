@@ -2534,19 +2534,21 @@ input:focus {
     top: 19px;
     width: 24px; */
 
-    background-color: transparent;
-    height: 24px;
-    left: 264px;
+    background-color: var(--navy-blue);
+    border-radius: 5px;
+    height: 36px;
+    left: 251px;
     mix-blend-mode: normal;
     position: absolute;
     top: 19px;
     width: 105px;
-    background-color: transparent;
     color: var(--text--components);
     font-family: var(--font-family-inter);
     font-size: var(--font-size-m);
     font-style: normal;
     font-weight: 600;
+    padding: 3px;
+    text-align: center;
 }
 
 .android-large-3 .group-664-6xtG6n {
