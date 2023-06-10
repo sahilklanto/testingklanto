@@ -656,7 +656,7 @@ input:focus {
 }
 
 .android-large-3 .join-for-free-sqwA4O {
-    left: 9px;
+    left: 2px;
     top: 12px;
 }
 
@@ -2797,7 +2797,7 @@ input:focus {
     left: 16px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 3780px;
+    top: 3808px;
     width: 328px;
 }
 
@@ -3308,6 +3308,22 @@ input:focus {
     text-align: left;
     white-space: nowrap;
     width: auto;
+    top: 3328px;
+    z-index: 5000;
+}
+
+.android-large-3 .join-for-free-simply-your-financials {
+    background-color: transparent;
+    height: auto;
+    letter-spacing: 0.00px;
+    line-height: 24px;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    white-space: nowrap;
+    width: auto;
+    top: 3818px;
+    z-index: 5000;
 }
 
 .android-large-3 .klanto {
@@ -3327,6 +3343,17 @@ input:focus {
 }
 
 .android-large-3 .rectangle-166 {
+    background-color: var(--navy-blue);
+    border-radius: 8px;
+    height: 48px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: -85px;
+    width: 149px;
+}
+
+.android-large-3 .rectangle-166-text {
     background-color: var(--navy-blue);
     border-radius: 8px;
     height: 48px;
@@ -4002,7 +4029,7 @@ input:focus {
     font-style: normal;
     font-weight: 600;
     height: auto;
-    left: 1272px;
+    left: 1258px;
     letter-spacing: 0.00px;
     line-height: normal;
     mix-blend-mode: normal;
@@ -4022,11 +4049,12 @@ input:focus {
     display: flex;
     gap: 10px;
     height: auto;
-    left: 1347px;
+    left: 1330px;
     padding: 15px 40px;
     position: absolute;
     top: -2px;
     width: fit-content;
+    background-color: var(--navy-blue);
 }
 
 .desktop-48 .join-klanto-llQM8R {
@@ -5137,7 +5165,7 @@ input:focus {
 .desktop-48 .group-672-lxwBSV {
     background-color: transparent;
     height: 55px;
-    left: 80px;
+    left: -368px;
     position: absolute;
     top: 12px;
     width: 518px;
@@ -5178,7 +5206,7 @@ input:focus {
 }
 
 .desktop-48 .join-for-free-lxwBSV {
-    left: 448px;
+    left: 2px;
     letter-spacing: 0.00px;
     line-height: 30px;
     top: 25px;
@@ -6754,10 +6782,10 @@ input:focus {
 .ipad-pro-12-9-1 .menu-ohxhu3 {
     background-color: transparent;
     height: 40px;
-    left: 830px;
+    left: 735px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 40px;
+    top: 48px;
     width: auto;
     background-color: transparent;
     color: var(--text--components);
@@ -6851,9 +6879,15 @@ input:focus {
 }
 
 .ipad-pro-12-9-1 .join-for-free-ZVQgow {
-    left: 11px;
+    left: 1px;
     line-height: 24px;
-    top: 12px;
+    top: -79px;
+}
+
+.ipad-pro-12-9-1 .join-for-free-ZVQgow-text {
+    left: 1px;
+    line-height: 24px;
+    top: 652px;
 }
 
 .ipad-pro-12-9-1 .logos-ohxhu3 {
@@ -8625,7 +8659,7 @@ input:focus {
     font-style: normal;
     font-weight: 700;
     height: auto;
-    left: 94px;
+    left: 76px;
     letter-spacing: 0.00px;
     line-height: 60px;
     mix-blend-mode: normal;
@@ -8639,9 +8673,9 @@ input:focus {
 .ipad-pro-12-9-1 .group-664-ohxhu3 {
     background-color: transparent;
     height: 560px;
-    left: 51px;
+    left: 187px;
     position: absolute;
-    top: 5286px;
+    top: 5369px;
     width: 926px;
 }
 
@@ -8991,7 +9025,7 @@ input:focus {
     font-weight: 600;
     left: 24px;
     line-height: 69.1px;
-    top: 35px;
+    top: -57px;
 }
 
 .ipad-pro-12-9-1 .group-7031-Kh9A2O {
@@ -9511,7 +9545,7 @@ input:focus {
     left: 0px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 0px;
+    top: -90px;
 }
 
 .ipad-pro-12-9-1 .switch-human-interface-guidelines {
@@ -9603,14 +9637,14 @@ input:focus {
 }
 
 .ipad-pro-12-9-1 .menu-ohxhu3-join-now {
-    background-color: transparent;
+    background-color: var(--navy-blue);
     height: 40px;
-    left: 889px;
+    left: 800px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 40px;
-    width: 300px;
-    background-color: transparent;
+    top: 37px;
+    width: 195px;
+    border-radius: 5px;
     color: var(--text--components);
     font-family: var(--font-family-inter);
     font-size: var(--font-size-m);
@@ -9663,10 +9697,10 @@ input:focus {
     border-color: var(--heading--white);
     border-radius: 8px;
     height: 117px;
-    left: 967px;
+    left: 595px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 816px;
+    top: 846px;
     width: 850px;
 }
 
@@ -9680,7 +9714,7 @@ input:focus {
     mix-blend-mode: normal;
     position: absolute;
     top: 1450px;
-    width: 984px;
+    width: 963px;
 }
 
 .ipad-pro-12-9-1 .rectangle-777-207TlU-text {
@@ -9699,10 +9733,10 @@ input:focus {
 .desktop-48 .rectangle-777-207TlU-text {
     background-color: transparent;
     height: 117px;
-    left: 245px;
+    left: 687px;
     mix-blend-mode: normal;
     position: absolute;
-    top: 853px;
+    top: 789px;
     width: 600px;
     font-family: var(--font-family-inter);
     color: white;
@@ -9713,33 +9747,33 @@ input:focus {
 .desktop-48 .ezgif-4-85F2Id {
     background-color: transparent;
     height: 83px;
-    left: 735px;
+    left: 367px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 0px;
+    top: 28px;
     width: 100px;
   }
 
   .desktop-48 .ezgif-3-85F2Id {
     background-color: transparent;
     height: 48px;
-    left: 499px;
+    left: 119px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 18px;
+    top: 47px;
     width: 173px;
   }
 
   .desktop-48 .ezgif-5-85F2Id {
     background-color: transparent;
     height: 67px;
-    left: 910px;
+    left: 540px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 8px;
+    top: 39px;
     width: 147px;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
@@ -9763,11 +9797,11 @@ input:focus {
   .desktop-48 .r-chilli-logo-1-85F2Id {
     background-color: transparent;
     height: 88px;
-    left: 306px;
+    left: -80px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: -1px;
+    top: 27px;
     width: 138px;
   }
 
@@ -9792,8 +9826,8 @@ input:focus {
 
   .ipad-pro-12-9-1 .r-chilli-logo-1-85F2Id {
     background-color: transparent;
-    height: 74px;
-    left: -674px;
+    height: 89px;
+    left: -624px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
@@ -9804,7 +9838,7 @@ input:focus {
 .ipad-pro-12-9-1 .ezgif-4-85F2Id {
     background-color: transparent;
     height: 83px;
-    left: -49px;
+    left: -393px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
@@ -9814,23 +9848,23 @@ input:focus {
 
   .ipad-pro-12-9-1 .ezgif-3-85F2Id {
     background-color: transparent;
-    height: 42px;
-    left: -500px;
+    height: 52px;
+    left: -198px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 651px;
-    width: 154px;
+    top: 652px;
+    width: 189px;
   }
 
   .ipad-pro-12-9-1 .ezgif-5-85F2Id {
     background-color: transparent;
     height: 50px;
-    left: 124px;
+    left: 85px;
     mix-blend-mode: normal;
     object-fit: cover;
     position: absolute;
-    top: 645px;
+    top: 650px;
     width: 140px;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
@@ -9865,3 +9899,300 @@ input:focus {
     font-style: normal;
     font-weight: 300;
   }
+
+.ipad-pro-12-9-1 .unsplashg-uq-us-f6c-t6w-1AXLnd {
+    background-color: var(--heading--white);
+    border-radius: 8px;
+    box-shadow: 0px 4px 32px #1878e514;
+    height: 350px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 620px;
+}
+
+.ipad-pro-12-9-1 .amet-minim-mollit-no-1AXLnd {
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 600;
+    left: 16px;
+    line-height: normal;
+    top: 126px;
+    width: auto;
+}
+
+.ipad-pro-12-9-1 .amet-minim-mollit-no-Cgj3EU {
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 500;
+    left: 16px;
+    line-height: normal;
+    top: 163px;
+    width: 543px;
+}
+
+.ipad-pro-12-9-1 .ellipse-33-1AXLnd {
+    background-color: transparent;
+    height: 70px;
+    left: 16px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 16px;
+    width: 70px;
+}
+
+.ipad-pro-12-9-1 .star-6-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 18px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.ipad-pro-12-9-1 .star-7-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 38px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.ipad-pro-12-9-1 .star-8-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 58px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.ipad-pro-12-9-1 .star-9-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 78px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.ipad-pro-12-9-1 .star-10-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 98px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.ipad-pro-12-9-1 .join-klanto-llQM8R {
+    background-color: transparent;
+    color: var(--heading--white);
+    cursor: pointer;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-l);
+    font-style: normal;
+    font-weight: 600;
+    top: 10px;
+    left: 24px;
+    letter-spacing: 0.00px;
+    line-height: 22px;
+    mix-blend-mode: normal;
+    position: relative;
+    text-align: left;
+    /* text-decoration: underline; */
+    white-space: nowrap;
+    width: fit-content;
+}
+
+
+.android-large-3 .unsplashg-uq-us-f6c-t6w-1AXLnd {
+    background-color: var(--heading--white);
+    border-radius: 8px;
+    box-shadow: 0px 4px 32px #1878e514;
+    height: 350px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 620px;
+}
+
+.android-large-3 .amet-minim-mollit-no-1AXLnd {
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 600;
+    left: 16px;
+    line-height: normal;
+    top: 126px;
+    width: auto;
+}
+
+.android-large-3 .amet-minim-mollit-no-Cgj3EU {
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: small;
+    font-style: normal;
+    font-weight: 500;
+    left: 16px;
+    line-height: normal;
+    top: 163px;
+    width: 317px;
+}
+
+.android-large-3 .ellipse-33-1AXLnd {
+    background-color: transparent;
+    height: 70px;
+    left: 16px;
+    mix-blend-mode: normal;
+    object-fit: cover;
+    position: absolute;
+    top: 16px;
+    width: 70px;
+}
+
+.android-large-3 .star-6-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 18px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.android-large-3 .star-7-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 38px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.android-large-3 .star-8-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 58px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.android-large-3 .star-9-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 78px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+.android-large-3 .star-10-1AXLnd {
+    background-color: transparent;
+    height: 11px;
+    left: 98px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 96px;
+    width: 11px;
+}
+
+
+.ipad-pro-12-9-1 .darlene-robertson-1AXLnd {
+    background-color: transparent;
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 600;
+    height: auto;
+    left: 102px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 31px;
+    width: auto;
+}
+
+.ipad-pro-12-9-1 .marketing-coordinator-1AXLnd {
+    background-color: transparent;
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 102px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 64px;
+    width: auto;
+}
+
+
+
+.android-large-3 .darlene-robertson-1AXLnd {
+    background-color: transparent;
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxl);
+    font-style: normal;
+    font-weight: 600;
+    height: auto;
+    left: 102px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 31px;
+    width: auto;
+}
+
+.android-large-3 .marketing-coordinator-1AXLnd {
+    background-color: transparent;
+    color: var(--background);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    left: 102px;
+    letter-spacing: 0.00px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 64px;
+    width: auto;
+}
+
+.android-large-3 .android-schedule-a-demo {
+    font-family: var(--font-family-inter);
+    color: white;
+    top: 3px;
+    left: 3px;
+}
