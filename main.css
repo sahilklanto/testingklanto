@@ -3353,6 +3353,17 @@ input:focus {
     width: 149px;
 }
 
+.android-large-3 .rectangle-166-top {
+    background-color: var(--navy-blue);
+    border-radius: 8px;
+    height: 48px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: -88px;
+    width: 149px;
+}
+
 .android-large-3 .rectangle-166-text {
     background-color: var(--navy-blue);
     border-radius: 8px;
