@@ -660,13 +660,47 @@ input:focus {
     top: 12px;
 }
 
+
+.android-large-3 .logos-6xtG6n-text {
+    background-color: transparent;
+    height: 54px;
+    left: 29px;
+    position: absolute;
+    top: 707px;
+    font-family: var(--font-family-inter);
+    color: white;
+}
+
 .android-large-3 .logos-6xtG6n {
     background-color: transparent;
     height: 54px;
-    left: 16px;
+    left: -5px;
     position: absolute;
     top: 740px;
-    width: 328px;
+}
+
+.android-large-3 .logos-6xtG6n-1 {
+    background-color: transparent;
+    height: 46px;
+    left: 104px;
+    position: absolute;
+    top: 743px;
+}
+
+.android-large-3 .logos-6xtG6n-2 {
+    background-color: transparent;
+    height: 32px;
+    left: 165px;
+    position: absolute;
+    top: 749px;
+}
+
+.android-large-3 .logos-6xtG6n-3 {
+    background-color: transparent;
+    height: 54px;
+    left: 306px;
+    position: absolute;
+    top: 740px;
 }
 
 .android-large-3 .empower-your-team-with-unlimited-cards-6xtG6n {
@@ -6892,7 +6926,7 @@ input:focus {
 .ipad-pro-12-9-1 .join-for-free-ZVQgow {
     left: 1px;
     line-height: 24px;
-    top: -79px;
+    top: 8px;
 }
 
 .ipad-pro-12-9-1 .join-for-free-ZVQgow-text {
